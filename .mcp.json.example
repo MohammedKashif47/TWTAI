@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "jira-user-guide": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["E:/TWTAI/User-guide-mcp/dist/index.js"]
+    }
+  }
+}
